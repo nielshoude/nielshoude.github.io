@@ -1,0 +1,24 @@
+{
+  "name": "nielshoude.github.io",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nielshoude/nielshoude.github.io.git"
+  },
+  "author": "Niels houde <nielshoude@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nielshoude/nielshoude.github.io/issues"
+  },
+  "homepage": "https://github.com/nielshoude/nielshoude.github.io#readme",
+  "devDependencies": {
+    "gul": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
