@@ -1,0 +1,10 @@
+.btn-caret {
+    .fa {
+        transition: transform .2s;
+    }
+    &.collapsed {
+        .fa {
+            transform: rotate(90deg);
+        }
+    }
+}
